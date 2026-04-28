@@ -72,7 +72,9 @@ torch>=2.0          # optional, only for the CNN section
 
 ## Citation
 
-If you use this code in published work, please cite the accompanying paper.
+## Companion Paper
+
+Razeghi, A. (2026). *Machine Learning and AI in Modern Astronomy: A Review of Methods, Applications, Challenges, and a Reproducible Case Study*. Zenodo. https://doi.org/10.5281/zenodo.19838808
 
 ## License
 
