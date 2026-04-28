@@ -78,8 +78,8 @@ Razeghi, A. (2026). *Machine Learning and AI in Modern Astronomy: A Review of Me
 
 ## License
 
-MIT — see LICENSE for details.
+MIT - see LICENSE for details.
 
 ## Contact
 
-Ali Razeghi — Newmarket, Ontario, Canada
+Ali Razeghi - Newmarket, Ontario, Canada
