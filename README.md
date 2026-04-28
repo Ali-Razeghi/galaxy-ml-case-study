@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/1223091716.svg)](https://doi.org/10.5281/zenodo.19838607)
 
-# Galaxy Morphology Classification — Companion Code
+# Galaxy Morphology Classification - Companion Code
 
 This repository accompanies the paper:
 
