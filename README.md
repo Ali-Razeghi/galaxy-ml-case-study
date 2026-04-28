@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-> **Razeghi, A. (2025).** *Machine Learning and AI in Modern Astronomy: A Review of Methods, Applications, Challenges, and a Reproducible Case Study.*
+> **Razeghi, A. (2026).** *Machine Learning and AI in Modern Astronomy: A Review of Methods, Applications, Challenges, and a Reproducible Case Study.*
 
 It contains the full reproducible pipeline for the case study presented in Section 5 of the paper, including:
 
