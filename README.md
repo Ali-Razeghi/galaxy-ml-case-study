@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1223091716.svg)](https://doi.org/10.5281/zenodo.19838607)
+
 # Galaxy Morphology Classification — Companion Code
 
 This repository accompanies the paper:
@@ -15,7 +17,7 @@ It contains the full reproducible pipeline for the case study presented in Secti
 
 ```bash
 # Clone and install
-git clone https://github.com/<your-username>/galaxy-ml-case-study.git
+git clone https://github.com/Ali-Razeghi/galaxy-ml-case-study.git
 cd galaxy-ml-case-study
 pip install -r requirements.txt
 
